@@ -93,6 +93,6 @@ Hello ----Everyone
 ```
 
 
-# About `Crane.MethodHook`
+# About [Crane.MethodHook](https://www.nuget.org/packages/Crane.MethodHook)
 - `此库尝试通过汇编JMP指令实现.net中方法钩子。`
 - `This library implement .net method hooking by using native JMP directive.`
